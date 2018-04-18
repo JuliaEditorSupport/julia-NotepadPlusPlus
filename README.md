@@ -7,13 +7,22 @@
 
 ## Installation
 ### Manual installation
-ToDo
+For Syntax Highlighting
+- Download the xml file from below or copy the content in an empty text file and save it as an xml
+- Open Notepad++ and go to the menu entry *Language > Define your language ...*
+- Click *Import...* and select the downloaded xml file
+- Restart Notepad++ (actually, this should not be necessary, but it is recommended)
+*julia* should be listed now in the *Language* menu. 
+
+For Auto Hotkey:
+TODO
+
 
 ### Content
 | Name                           |  Description                                                |
 | ------------------------------ | ----------------------------------------------------------- |
-|[ Julia_Notepad++.xml ](https://github.com/JuliaLang/julia/blob/master/contrib/Julia_Notepad++.xml) | Notepad++ config file |
-|[ Notepad++_2_Julia.ahk ](https://github.com/JuliaLang/julia/blob/master/contrib/Notepad++_2_Julia.ahk) | Auto Hotkey for Notepad++ config file |
+|[ Julia_Notepad++.xml ](Julia_Notepad++.xml) | Notepad++ config file |
+|[ Notepad++_2_Julia.ahk ](Notepad++_2_Julia.ahk) | Auto Hotkey for Notepad++ config file |
 
 ## Contributing
 We love contributors but please first read the general guide about [contributing to Julia language project](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md).
