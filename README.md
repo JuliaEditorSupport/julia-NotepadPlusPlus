@@ -14,8 +14,13 @@ For Syntax Highlighting
 - Restart Notepad++ (actually, this should not be necessary, but it is recommended)
 *julia* should be listed now in the *Language* menu. 
 
-For Auto Hotkey:
-TODO
+For Auto Hotkey
+- Download and install AutoHotkey for Windows if not already installed on your computer
+- Download the ahk file from below or copy the content in an empty text file and save it as an ahk
+- Open Command Prompt and go the the folder the ahk file is at
+- Run the script with `start AutoHotkey Notepad++_2_Julia.ahk`
+- Greek letters are now availible in the current windows session using key combination `ctr` + `win` + [letter key] 
+- E.g. for ε the key combination is `ctr` + `win` + `e`
 
 
 ### Content
